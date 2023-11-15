@@ -10,7 +10,7 @@ y los ibamos modificando para generar diferentes situaciones
 ## Visita Mi repositorio
 [Clicka Aquí](https://github.com/Xucurru/dawAct2.3)
 
-![Imagen Aleatoria](foto.jpeg)
+![Imagen Aleatoria](foto.jpg)
 
 ### Parte de mi index.html
 ```
